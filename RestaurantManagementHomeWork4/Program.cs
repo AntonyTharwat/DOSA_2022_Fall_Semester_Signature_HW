@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -43,14 +43,14 @@ namespace RestaurantManagementHomeWork4
                     }
                     Console.WriteLine("\n");
                 }
-                else if (readInput == "c") // check table is aviliable or in a certain time
+                else if (readInput == "c") // check table is avaliable in a certain time
                 {
                     Console.WriteLine("Please Enter Expected time of Arrival \nEnter The time in Format hh:mm 24-h format");
                     TimeSpan timestart = new TimeSpan();
                     TimeSpan.TryParse(Console.ReadLine(), out timestart);
                     checkAvailability(timestart);
                 }
-                else if (readInput == "t")
+                else if (readInput == "t") // list reserved tables
                 {
                     if ((reservations != null) && (!reservations.Any())) // if there is no reservation yet!
                     {
@@ -68,7 +68,7 @@ namespace RestaurantManagementHomeWork4
                             string s12 = $"Phone No: { item.person.phoneNumber} \n";
                             string s13 = $"Total Number of Companion {item.person.noOfCompanions} \n";
                             string s14 = $"Check-in Schedule: {item.eventStartTime} \n";
-                            string s15 = $"Check-out Schedule: {item.eventEndTime} \n \n";
+                            string s15 = $"Leave Schedule: {item.eventEndTime} \n \n";
                             Console.Write(s10 + s11 + s12 + s13 + s14 + s15);
                         }
                     }
