@@ -45,7 +45,7 @@ namespace RestaurantManagementHomeWork4
                 }
                 else if (readInput == "c") // check table is aviliable or in a certain time
                 {
-                    Console.WriteLine("Please Enter Expected Date of Arrival \nEnter The Date in Format hh:mm 24-h format");
+                    Console.WriteLine("Please Enter Expected time of Arrival \nEnter The time in Format hh:mm 24-h format");
                     TimeSpan datestart = new TimeSpan();
                     TimeSpan.TryParse(Console.ReadLine(), out datestart);
                     checkAvailability(datestart);
