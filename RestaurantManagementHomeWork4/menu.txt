@@ -1,0 +1,61 @@
+======================= Menu List ====================================
+
+************ Appetizers ************
+
+- Mozzarella sticks
+- Cheddar Biscuits
+- Mac & cheese (with an option to add bacon)
+- Pigs in a blanket
+- Spinach cheese dip with chips
+- Onion rings
+- French fries (with an option to add cheese/ bacon)
+- Baked potato (with an option to add cheese/ bacon)
+- Breadsticks
+- Salad
+
+************ Comfort food ************
+
+- Chicken pot pie
+- Mashed potatoes
+- Fried chicken
+- Burgers (with an option to add cheese/ bacon)
+- Chicken soup
+- Meatloaf
+- Lasagna
+- Spaghetti with meatballs
+- Chicken burger
+- Chicken parmesan
+- Chicken Pesto
+- Burger Sliders
+
+************ Locally sourced foods ************
+
+- Burgers with locally sourced beef or chicken
+- Salads with ingredients from nearby farms
+- Lobster rolls, shrimp, grilled fish if you’re next to a fresh body of water
+
+************ Kids Menu ************
+
+- Grilled cheese
+- Tomato soup
+- Chicken fingers/ nuggets
+- Flatbread pizza
+- Mac & cheese
+- Mini burgers
+- Mini pizzas
+
+************ Desserts ************
+
+- Apple pie
+- Pumpkin pie (a great choice during the Fall)
+- Giant chocolate chip cookies
+- Banana split
+- Molten lava cakes
+- Cinnamon rolls
+ -Cheesecake
+- Baklava
+- Lemon cake
+- Cannoli
+- Strawberry shortcake
+- Apple Cobbler
+======================= End of List ====================================
