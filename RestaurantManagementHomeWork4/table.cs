@@ -1,4 +1,4 @@
-﻿namespace RestaurantManagementHomeWork4
+namespace RestaurantManagementHomeWork4
 {
     enum availabletables
     {
@@ -6,6 +6,7 @@
     }
     class table
     {
+        // Automatic Properties (Short Hand) for get and st each attribute
         public availabletables tableNumber { get; set; }
         public int numberOfChairs { get; set; } 
     }
