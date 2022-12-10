@@ -25,7 +25,7 @@ namespace RestaurantManagementHomeWork4
                 string s2 = "- Press 'C' To Check aviliable Tables \n";
                 string s3 = "- Press 'T' To List Reserved Tables' Details \n";
                 string s4 = "- Press 'R' For New Reservation \n";
-                Console.WriteLine(" Hi, how can I help you? \n" + s1 + s2 + s3 + s4);
+                Console.WriteLine(" Hi, how can I help you? \n" + s1 + s2 + s3 + s4 + " Then press Enter \n");
 
                 string readInput = Console.ReadLine().ToLower();
                 if (readInput == "r") //List menu in case input is "R"
