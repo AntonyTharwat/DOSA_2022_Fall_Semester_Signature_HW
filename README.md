@@ -14,4 +14,6 @@ The first question that comes to mind at the beginning of developing a new softw
 - Mark all nouns. They will be class names and attributes.
 - Mark all verbs. They will be the functions.
 - Fine-tune the results.
+
+
 After that, I can develop a simple C# code depending on the basics of C# programming language and also create different types of Unified Modeling Language (UML) diagrams, including (Class diagrams – sequence diagrams – State diagrams).
